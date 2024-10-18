@@ -1,0 +1,65 @@
+body {
+    background-color:rgb(59, 58, 58);
+    background-image: url('images/2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+h1 {
+    text-align: center;
+    padding-top: 20px;
+}
+.grid-container {
+    overflow: hidden;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    grid-template-rows: repeat(5, auto);
+    gap: 20px;
+    padding: 100px;
+    width: 100%;
+}
+.shoe {
+    background-color: rgb(114, 70, 70);
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+button {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: darkgoldenrod;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+}
+button:hover {
+    background-color: blue;
+}
+#search-bar {
+    margin-bottom: 20px;
+    padding: 10px;
+    width: 100%;
+    max-width: 400px;
+    font-size: 16px;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+.shoe img {
+    max-width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+#sneaker1 {
+    background-color: aliceblue;
+}
+.search-container {
+    margin: 20px auto;
+    text-align: center;
+}
+.search-container input {
+    padding: 10px;
+    width: 300px;
+}
