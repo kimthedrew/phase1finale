@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", () => {
             const shoeItem = document.createElement('div');
             shoeItem.classList.add('shoe');
             shoeItem.innerHTML = `
-            <img src="${shoe.img} alt="${shoe.name}" onerror="this.onerror=null;this.src='images/converse.jpeg';">
+            <img src="${shoe.img}"  alt="${shoe.name}" onerror="this.onerror=null;this.src='images/default.jpg';">
             <h3>${shoe.name}</h3>
             <p>Price: ${shoe.price}</p>
             <p>Stock: <span id="stock-${shoe.id}">${shoe.stock}</span></p>

@@ -1,5 +1,5 @@
 body {
-    background-color:rgb(59, 58, 58);
+    background-color:rgb(14, 13, 13);
     background-image: url('images/2.jpg');
     background-size: cover;
     background-repeat: no-repeat;
@@ -8,6 +8,7 @@ body {
 h1 {
     text-align: center;
     padding-top: 20px;
+    background-color: rgb(107, 122, 134);
 }
 .grid-container {
     overflow: hidden;

@@ -11,7 +11,7 @@
         },
         {
             "id": "2",
-            "name": "fila",
+            "name": "Fila",
             "price":"2800",
             "img": "images/2.jpeg",
             "stock": "15"
@@ -19,7 +19,7 @@
         },
         {
             "id": "3",
-            "name": "gucci",
+            "name": "Gucci",
             "price": "5000",
             "img": "images/3.jpg",
             "stock": "18"
@@ -27,7 +27,7 @@
         },
         {
             "id": "4",
-            "name": "jordan highcut",
+            "name": "Jordan highcut",
             "price": "2500",
             "img": "images/4.jpg",
             "stock": "25"
@@ -35,7 +35,7 @@
         },
         {
             "id": "5",
-            "name": "jordan iv",
+            "name": "Jordan iv",
             "price": "3200",
             "img": "images/5.jpg",
             "stock": "10"
@@ -43,7 +43,7 @@
         },
         {
             "id": "6",
-            "name": "new balance",
+            "name": "New Balance",
             "price": "2650",
             "img": "images/6.jpg",
             "stock": "12"
@@ -51,7 +51,7 @@
         },
         {
             "id": "7",
-            "name": "puma",
+            "name": "Puma",
             "price":"3000",
             "img": "images/7.jpg",
             "stock": "30"
@@ -59,7 +59,7 @@
         },
         {
             "id": "8",
-            "name": "reebok",
+            "name": "Reebok",
             "price":"2600",
             "img": "images/8.jpg",
             "stock": "17"
@@ -67,15 +67,15 @@
         },
         {
             "id": "9",
-            "name": "salomon",
+            "name": "Salomon",
             "price": "3000",
-            "img": "images/9.jpeg",
+            "img": "images/9.jpg",
             "stock": "15"
                 
         },
         {
             "id": "10",
-            "name": "sketchers",
+            "name": "Sketchers",
             "price":"2800",
             "img": "images/10.jpeg",
             "stock": "10"
@@ -83,7 +83,7 @@
         },
         {
             "id": "11",
-            "name": "under armour",
+            "name": "Under Armour",
             "price":"4500",
             "img": "images/11.jpg",
             "stock": "11"
@@ -91,7 +91,7 @@
         },
         {
             "id": "12",
-            "name": "air cushion sneaker",
+            "name": "Air cushion sneaker",
             "price":"3500",
             "img": "images/12.jpg",
             "stock": "8"
